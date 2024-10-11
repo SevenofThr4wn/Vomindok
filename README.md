@@ -1,6 +1,6 @@
 # Vomindok
 
-#Introduction
+# Introduction
 
 Vomindok, meaning "unknown" in the Dragon Language, is a highly personalized modlist that I have personally developed initally as my personal modlist but have since changed it as an early development public modlist. This list feature modern 2024 graphics, new quests, modernized combat animations, and overhauled locations that are awaiting to be explored.
 
@@ -10,10 +10,10 @@ a summary of the features in this list can be viewed here:
 
 
 
-#System Requirements 
+# System Requirements 
 
 
 
 
 
-#Credits and Thanks
+# Credits and Thanks
