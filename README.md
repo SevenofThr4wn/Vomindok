@@ -8,7 +8,7 @@ Vomindok, meaning "unknown" in the Dragon Language, is a highly personalized mod
 
 The full modlist can be accessed here: [Load Order Library](https://loadorderlibrary.com/lists/eldersblood-wip-personal-modlist)
 
-A summary of the features in this list can be viewed here: 
+A summary of the features in this list can be viewed here: [Features](https://github.com/SevenofThr4wn/Vomindok/blob/main/FEATURES.md)
 
 
 
