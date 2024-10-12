@@ -22,9 +22,8 @@ A summary of the features in this list can be viewed here:
 > [!NOTE]
 > You CANNOT run this list on an External Drive, it MUST be a internal SSD. Additional Note: This list does not support pirated/illegally obtained copies of Skyrim SE OR Anniverary Edition Content, I will also not be provide ANY support for users using a pirated copy.
 
-Vomindok is a highly demanding modlist to run, please see the below hardware specs to see if your PC can run the list 
 
-
+Vomindok is a highly demanding modlist to run, please see the below hardware specs to see if your PC can run the list. Just to make it clear, if your rig has 16GB of RAM or less, you will struggle to maintain a stable and mostly crash-free experience, I recommend having 32GB or more to avoid Memory-Related Crashes.
 
 
 # Credits and Thanks
