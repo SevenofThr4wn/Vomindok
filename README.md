@@ -19,9 +19,15 @@ A summary of the features in this list can be viewed here:
 
 
 # System Requirements 
+> [!NOTE]
+> You CANNOT run this list on an External Drive, it MUST be a internal SSD. Additional Note: This list does not support pirated/illegally obtained copies of Skyrim SE OR Anniverary Edition Content, I will also not be provide ANY support for users using a pirated copy.
 
+Vomindok is a highly demanding modlist to run, please see the below hardware specs to see if your PC can run the list 
 
 
 
 
 # Credits and Thanks
+
+Biggie Boss - For the DynDOLOD tutorials and xedit tutorials(can be publicly viewed on YouTube)
+
