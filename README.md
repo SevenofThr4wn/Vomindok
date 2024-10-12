@@ -1,10 +1,4 @@
 # Vomindok
-
-# Contents
-
-
-
-
 # Introduction
 
 > [!NOTE]
@@ -19,7 +13,7 @@ A summary of the features in this list can be viewed here:
 
 
 # System Requirements 
-> [!NOTE]
+> [!IMPORTANT]
 > You CANNOT run this list on an External Drive, it MUST be a internal SSD. Additional Note: This list does not support pirated/illegally obtained copies of Skyrim SE OR Anniverary Edition Content, I will also not be provide ANY support for users using a pirated copy.
 
 
