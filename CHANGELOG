@@ -1,0 +1,81 @@
+Changelog for 1.0-alpha release - ETA: ????
+
+Updated Skyrim to 1.6.1170
+Updated Creation Kit to Latest Version(With CKPE)
+Updated SKSE to 2.0.6
+Introduced Root Builder for MO2
+Updated Grass Cache
+
+Added
+- Journey to Baan Mular and Morrowind
+- Olenveld
+- Mrf's Solitude
+- Novigrad my Solitude
+- BENDr MRF's Solitude
+- BENDr Novigrad my Solitude 
+- Saviik's Solitude Overhaul
+- Redbag's Rorikstead
+- Phantom Horse
+- Afterlife - 1130 patch
+- I'm Walkin Here - NG
+- IWantWidgets NG
+- Constructible Object Keyword System - NG
+- Realistic Halberd Polearm Animation(MCO | SCAR)
+- Considerate Followers - Followers are Silent During Dialogue
+- Community Shaders Suite for Performance Profile
+- Kojak's Whiterun Market SSE
+- Fabled Forests
+
+Removed
+- Backport Extended ESL Support(BEES)
+- GG's Impoverished Whiterun
+- The Great City of Solitude
+- The Great Town of Rorikstead
+- Redbag's Solitude
+- Oakwood
+- Dumpar Wall
+- Rain Extinguishes Fire - NG 
+- Riton Solitude
+- BENDr Riton Solitude
+- Auto Audio Switch
+- Ryn's Whiterun City Limits
+- Bounty Quests Redone - NG
+- STB Widgets
+
+Updates
+- Unofficial Skyrim Special Edition Patch
+- RaceMenu
+- JContainers
+- SSE Engine Fixes
+- SSE Display Tweaks
+- Oxygen Meter 2
+- Improved Alternate Conversation Camera
+- Simplicity of Snow
+- No Grass in Objects
+- Inventory Interface Information Injector
+- City Trees
+- QuickLoot IE 
+- QuickLoot IE - Untarnished UI Patch
+- Achievement Injector
+- Illustrious Whiterun
+- RMB SPIDified - Core
+- Swindlers Den
+- Next-Gen Decapitations 
+- New Armory Series - Imperial Silver Weapons and Armour
+- The Restless Dead - Mandragorasprouts' Draugr Patch
+- The Restless Dead(A Draugr and Skeleton Overhaul)
+- Water for ENB
+- Natural Waterfalls
+- JK's Interiors Patch Collection
+- New Armory Series - Dragon Cult Weapons
+- powerofthree's Tweaks
+- Animated Ice Floes
+- Animated Icebergs
+
+Buffs & Nerfs
+- Changed Bounty amounts for players to make more sense lore-wise
+
+Other Changes
+- Redone Whiterun and Winterhold Textures
+- Redone Farmhouse Textures
+- Eslified some plugins
