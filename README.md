@@ -1,8 +1,6 @@
 # Vomindok
 <div align="center">
-![alt text](https://github.com/SevenofThr4wn/Vomindok/blob/main/WabbajackImage.png?raw=true)
-
-
+![Image Header](WabbajackImage.png)
   | Wabbajack | [Load Order Library](https://loadorderlibrary.com/lists/vomindok-chapter-i) | Nexus Mods | 
 </div>
 
