@@ -1,4 +1,6 @@
 # Vomindok
+Wabbajack | [Load Order Library](https://loadorderlibrary.com/lists/vomindok-chapter-i) | Nexus Mods
+
 # Introduction
 
 > [!NOTE]
@@ -6,7 +8,7 @@
 
 Vomindok, meaning "unknown" in the Dragon Language, is a highly personalized modlist that I have personally developed initally as my personal modlist but have since changed it as an early development public modlist. This list feature modern 2024 graphics, new quests, modernized combat animations, and overhauled locations that are awaiting to be explored.
 
-The full modlist can be accessed here: [Load Order Library](https://loadorderlibrary.com/lists/eldersblood-wip-personal-modlist)
+The full modlist can be accessed here: 
 
 A summary of the features in this list can be viewed here: [Features](https://github.com/SevenofThr4wn/Vomindok/blob/main/FEATURES.md)
 
