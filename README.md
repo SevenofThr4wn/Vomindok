@@ -1,6 +1,7 @@
 # Vomindok
 <div align="center">
-![alt text]([http://url/to/img.png](https://cdn.discordapp.com/attachments/1305001789560721488/1320536069606871071/WabbajackImage.png?ex=6769f48d&is=6768a30d&hm=cce44f5fa34393610f797af01f32efce306d308004dd518f2e17e2b304bf1b0f&))
+![alt text](https://github.com/SevenofThr4wn/Vomindok/blob/main/WabbajackImage.png?raw=true)
+
 
   | Wabbajack | [Load Order Library](https://loadorderlibrary.com/lists/vomindok-chapter-i) | Nexus Mods | 
 </div>
