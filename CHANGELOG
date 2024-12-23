@@ -1,10 +1,14 @@
 Changelog for 1.0-alpha release - ETA: ????
 
-Updated Skyrim to 1.6.1170
-Updated Creation Kit to Latest Version(With CKPE)
-Updated SKSE to 2.0.6
-Introduced Root Builder for MO2
-Updated Grass Cache
+
+Notable Changes
+
+
+- Updated Skyrim to 1.6.1170
+- Updated Creation Kit to Latest Version(With CKPE)
+- Updated SKSE to 2.0.6
+- Introduced Root Builder for MO2
+- Updated Grass Cache
 
 Added
 - Journey to Baan Mular and Morrowind
@@ -25,6 +29,9 @@ Added
 - Community Shaders Suite for Performance Profile
 - Kojak's Whiterun Market SSE
 - Fabled Forests
+- Minotuars SE
+- Forsworn Minotaurs
+
 
 Removed
 - Backport Extended ESL Support(BEES)
@@ -41,6 +48,7 @@ Removed
 - Ryn's Whiterun City Limits
 - Bounty Quests Redone - NG
 - STB Widgets
+
 
 Updates
 - Unofficial Skyrim Special Edition Patch
@@ -71,11 +79,19 @@ Updates
 - powerofthree's Tweaks
 - Animated Ice Floes
 - Animated Icebergs
+- Northern Roads - Patch Compendium
+- Boethiah's Calling - Alternative Questline 
+- The Taste of Death - Quest Addon
+ 
 
 Buffs & Nerfs
 - Changed Bounty amounts for players to make more sense lore-wise
 
+
 Other Changes
-- Redone Whiterun and Winterhold Textures
+- Redone Whiterun and Winterhold textures
 - Redone Farmhouse Textures
 - Eslified some plugins
+- Identified & fixed landscape seam at cell 18,27
+- Added seperate mods for individual city patches
+- Forwarded changes to Dragon Priests made by several other mods
