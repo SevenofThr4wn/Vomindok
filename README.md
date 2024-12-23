@@ -1,7 +1,7 @@
 # Vomindok
 <div align="center">
   <img src="images/WabbajackImage.png">
-  | Wabbajack | <a href="https://loadorderlibrary.com/lists/vomindok-chapter-">Load Order Library</a>( | Nexus Mods | 
+  | Wabbajack | <a href="https://loadorderlibrary.com/lists/vomindok-chapter-i">Load Order Library</a>( | Nexus Mods | 
 </div>
 
 # Introduction
